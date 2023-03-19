@@ -1,6 +1,9 @@
-# Encoding Model
-Example code and analysis for the paper: Compression-enabled interpretability of voxelwise encoding models
-o simulate results in the paper, follow these steps:
+# Compression-enabled interpretability of voxel-wise encoding models
+
+Aythors: Fatemeh Kamali, Amir Abolfazl Suratgar, Mohammadbagher Menhaj, Reza Abbasi-Asl
+
+Manuscript link: https://www.biorxiv.org/content/10.1101/2022.07.09.494042v1.abstract
+
 
 ## 1. Extract Frames
 
