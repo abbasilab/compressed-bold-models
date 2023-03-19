@@ -46,3 +46,7 @@ Then PCA-reduced demension should be calculated similar to previous steps. the w
 5.5 Rreceptive filed size and locations can be obtained using rcsrc.center_radius.py
 
 
+# Citation
+
+Fatemeh Kamali, Amir Abolfazl Suratgar, Mohammadbagher Menhaj, and Reza Abbasi-Asl. "Compression-enabled interpretability of voxel-wise encoding models." bioRxiv (2022): 2022-07.
+
