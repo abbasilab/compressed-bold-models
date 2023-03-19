@@ -1,6 +1,6 @@
 # Compression-enabled interpretability of voxel-wise encoding models
 
-Aythors: Fatemeh Kamali, Amir Abolfazl Suratgar, Mohammadbagher Menhaj, Reza Abbasi-Asl
+Authors: Fatemeh Kamali, Amir Abolfazl Suratgar, Mohammadbagher Menhaj, Reza Abbasi-Asl
 
 Manuscript link: https://www.biorxiv.org/content/10.1101/2022.07.09.494042v1.abstract
 
